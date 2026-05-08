@@ -19,6 +19,17 @@ github "Serheo/PhoneNumberFormatter"
 pod "SwiftPhoneNumberFormatter"
 ```
 
+#### Swift Package Manager
+In Xcode, open **File > Add Packages...** and use:
+```
+https://github.com/lsn21/PhoneNumberFormatter.git
+```
+
+Then import in code:
+```swift
+import PhoneNumberFormatter
+```
+
 ## Getting Started
 
 ### Default Format

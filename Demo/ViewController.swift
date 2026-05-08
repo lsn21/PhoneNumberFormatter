@@ -26,7 +26,8 @@ class ViewController: UIViewController {
 
         }
 
-        defaultExample()
+//        defaultExample()
+        prefixExample()
     }
 
     func defaultExample() {
